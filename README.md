@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## User Story
 
-*User is able to Add new items to the list
-*User is able to edit alredy created lists
-*User is able to delete items on the list
+* User is able to Add new items to the list
+* User is able to edit alredy created lists
+* User is able to delete items on the list
 
 ## Available Scripts
 
