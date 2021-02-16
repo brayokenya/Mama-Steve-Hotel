@@ -1,0 +1,19 @@
+{
+    "Fruits": [{
+        "Banana": "Ksh. 10",
+        "Oranges": "Ksh. 15",
+        "Pineapples": "Ksh. 25",
+        "id": 1
+    }],
+    "Vegetables": [{
+        "Cabbage": "Ksh. 40",
+        "Kales": "Ksh. 10"
+
+    }],
+    "Meat": [{
+        "Goat": "Ksh. 40 per kg",
+        "Cow": "Ksh. 10 per kg",
+        "Pig": "Ksh. 10 per kg"
+    }]
+
+}
