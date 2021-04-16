@@ -45,3 +45,5 @@ You can provide feedback or raise any issues/ bugs through the following means:
 
 ## Author
 [Brian Kiiru](https://github.com/brayokenya)
+
+![WhatsApp Image 2021-04-12 at 6 11 06 PM](https://user-images.githubusercontent.com/25317059/115071083-75ca3500-9efe-11eb-815a-dd582336bad2.jpeg)
